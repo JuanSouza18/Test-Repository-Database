@@ -1,0 +1,1 @@
+I designed this database, to remember concepts, I made 3 tables, one for employees, products and customers, it simulates a store's database, future projects I want to link the database with some python system
